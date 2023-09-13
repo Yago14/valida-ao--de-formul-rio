@@ -40,6 +40,9 @@ main h1 {
     font-weight: bold;
     font-size: 0.9em;
 }
+#Obrigatorios{
+    color: red;
+}
 
 .formulario button {
     background-color: #30a000;
